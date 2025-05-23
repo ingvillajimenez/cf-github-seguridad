@@ -17,3 +17,6 @@ x86/
 # Ignore intermediate JS build files produced during TypeScript build at any 
 # folder depth under /Web/TypeScript. This won't ignore JS files elsewhere. 
 /Web/TypeScript/**/*.js
+
+.DS_Store
+node_modules/

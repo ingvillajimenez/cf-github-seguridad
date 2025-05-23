@@ -1,0 +1,25 @@
+{
+  "name": "cf-classic-pat-github-actions",
+  "version": "1.0.0",
+  "description": "Repositorio para los demos de la sesión 8 del Bootcamp de GitHub Foundations de Código Facilito",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingvillajimenez/cf-github-seguridad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingvillajimenez/cf-github-seguridad/issues"
+  },
+  "homepage": "https://github.com/ingvillajimenez/cf-github-seguridad#readme",
+  "dependencies": {
+    "escape-html": "^1.0.3",
+    "express": "^5.1.0"
+  }
+}
